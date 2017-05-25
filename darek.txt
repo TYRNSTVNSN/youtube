@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 
 to jest zmiana robiona przez testing branch
-=======
+
 testing testing has wrote this message
->>>>>>> testing
+
